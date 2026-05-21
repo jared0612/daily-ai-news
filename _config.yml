@@ -1,0 +1,5 @@
+markdown: kramdown
+title: AI 大事记
+description: 每日自动汇总前一天 AI 领域重要动态
+url: https://jared0612.github.io/daily-ai-news
+baseurl: ''
