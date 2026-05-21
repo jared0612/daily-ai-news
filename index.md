@@ -1,16 +1,21 @@
-# 每日 AI 大事记
+---
+layout: default
+title: AI 大事记
+---
+
+<link rel="icon" type="image/svg+xml" href="favicon.svg" />
+
+# 🤖 每日 AI 大事记
 
 > 每日自动汇总前一天 AI 领域重要动态，涵盖研究论文、博客播客、大佬发言、工作流应用、学习课程等。
 
-## 📰 最新一期
+## 最新一期
 
-<!-- 每日自动更新 -->
-- [2026-05-20](daily/2026-05-20.md) - Google I/O 2026、谷歌Gemini 3.5 Flash发布、Cerebras万亿参数推理突破
+- [**2026年5月20日** — Google I/O 2026、Cerebras 万亿参数推理、Cohere 开源模型等 20 条资讯](daily/2026-05-20.md)
 
 ## 往期存档
 
 <!-- 自动生成归档链接 -->
-- [2026-05-20](daily/2026-05-20.md) - Google I/O 2026、阿里Qwen3.7-Max、OpenAI GPT-5.5发布
 
 ---
 
