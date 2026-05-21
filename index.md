@@ -19,3 +19,8 @@
 ---
 
 *由 QClaw Agent 自动生成，每日 07:00 更新*
+
+
+## 📰 最新一期
+
+- [2026-05-20](daily/2026-05-20.md) - Google I/O 2026、阿里Qwen3.7-Max、OpenAI GPT-5.5发布
