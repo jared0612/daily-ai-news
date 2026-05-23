@@ -11,6 +11,7 @@ title: AI 大事记
 
 ## 📰 最新一期
 
+- [**2026年5月23日** — OpenAI营收57亿领先、DeepSeek永久降价、阿里Qwen3.7自研芯片优化等 22 条资讯](/daily-ai-news/daily/2026-05-23.html)
 - [**2026年5月21日** — OpenAI 数学突破、Cohere 开源模型、Cerebras 万亿参数推理等 20 条资讯](/daily-ai-news/daily/2026-05-21.html)
 - [**2026年5月20日** — Google I/O 2026 全家桶、Cerebras 推理突破、Cohere Apache 2.0 等 20 条资讯](/daily-ai-news/daily/2026-05-20.html)
 
@@ -18,6 +19,7 @@ title: AI 大事记
 
 | 日期 | 链接 |
 |------|------|
+| 2026-05-23 | [查看](/daily-ai-news/daily/2026-05-23.html) |
 | 2026-05-21 | [查看](/daily-ai-news/daily/2026-05-21.html) |
 | 2026-05-20 | [查看](/daily-ai-news/daily/2026-05-20.html) |
 
@@ -30,7 +32,3 @@ title: AI 大事记
 ---
 
 *🤖 由 QClaw Agent 自动生成，每日 07:00 更新*
-
-## 最新一期
-
-- [2026-05-22 AI大事记](daily/2026-05-22.md) — GitHub安全危机、Anthropic首度盈利、子曰4开源
