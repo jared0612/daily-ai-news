@@ -3,6 +3,8 @@ layout: default
 title: AI 大事记
 ---
 
+- [2026年05月28日](daily/2026-05-28)
+
 <link rel="icon" type="image/svg+xml" href="/daily-ai-news/favicon.svg" />
 
 # 🤖 每日 AI 大事记
