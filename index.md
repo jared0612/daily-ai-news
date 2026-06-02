@@ -13,6 +13,7 @@ title: AI 大事记
 
 ## 📰 最新一期
 
+- [2026-06-02 — MiniMax M3 发布、Codex Sites/Annotations、Surface RTX Spark Dev Box、Project Glasswing 扩展](daily/2026-06-02.html)
 - [🤖 AI 大事记 — 2026年06月01日](daily/2026-06-01.md)
 
 - [AI 大事记 — 2026年05月31日](daily/2026-05-31.md) 📅 2026-05-31
