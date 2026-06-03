@@ -3,8 +3,6 @@ layout: default
 title: AI 大事记
 ---
 
-- [2026年05月28日](daily/2026-05-28)
-
 <link rel="icon" type="image/svg+xml" href="/daily-ai-news/favicon.svg" />
 
 # 🤖 每日 AI 大事记
@@ -13,6 +11,7 @@ title: AI 大事记
 
 ## 📰 最新一期
 
+- [2026-06-03 — MiniMax M3 成本颠覆、Codex Sites/Annotations/角色插件、MXC Agent 沙箱、Headroom 上下文压缩等 20 条](daily/2026-06-03.html)
 - [2026-06-02 — MiniMax M3 发布、Codex Sites/Annotations、Surface RTX Spark Dev Box、Project Glasswing 扩展](daily/2026-06-02.html)
 - [🤖 AI 大事记 — 2026年06月01日](daily/2026-06-01.md)
 
