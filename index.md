@@ -11,6 +11,7 @@ title: AI 大事记
 
 ## 📰 最新一期
 
+- [2026-06-04 — Anthropic 递归自我改进报告、ChatGPT 长期记忆升级、联邦 AI 监管草案等 19 条](daily/2026-06-04.html)
 - [2026-06-03 — MiniMax M3 成本颠覆、Codex Sites/Annotations/角色插件、MXC Agent 沙箱、Headroom 上下文压缩等 20 条](daily/2026-06-03.html)
 - [2026-06-02 — MiniMax M3 发布、Codex Sites/Annotations、Surface RTX Spark Dev Box、Project Glasswing 扩展](daily/2026-06-02.html)
 - [🤖 AI 大事记 — 2026年06月01日](daily/2026-06-01.md)
@@ -33,6 +34,8 @@ title: AI 大事记
 
 | 日期 | 链接 |
 |------|------|
+| 2026-06-04 | [查看](/daily-ai-news/daily/2026-06-04.html) |
+| 2026-06-03 | [查看](/daily-ai-news/daily/2026-06-03.html) |
 | 2026-05-23 | [查看](/daily-ai-news/daily/2026-05-23.html) |
 | 2026-05-21 | [查看](/daily-ai-news/daily/2026-05-21.html) |
 | 2026-05-20 | [查看](/daily-ai-news/daily/2026-05-20.html) |
