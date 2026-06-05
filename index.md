@@ -10,6 +10,7 @@ title: AI 大事记
 > 每日自动汇总前一天 AI 领域重要动态，涵盖研究论文、博客播客、大佬发言、工作流应用、学习课程等。
 
 ## 📰 最新一期
+- [2026年06月05日 AI大事记](daily/2026-06-05.md) — 华为云Agentic Infra、美国政府拟入股AI公司、中科闻歌Decitron决策机
 
 - [2026-06-04 — Anthropic 递归自我改进报告、ChatGPT 长期记忆升级、联邦 AI 监管草案等 19 条](daily/2026-06-04.html)
 - [2026-06-03 — MiniMax M3 成本颠覆、Codex Sites/Annotations/角色插件、MXC Agent 沙箱、Headroom 上下文压缩等 20 条](daily/2026-06-03.html)
