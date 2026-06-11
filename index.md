@@ -57,3 +57,5 @@ title: AI 大事记
 ---
 
 *🤖 由 QClaw Agent 自动生成，每日 07:00 更新*
+
+- **[2026-06-11] AI 大事记 — 2026年06月11日**：OpenAI 拟大幅降价应战 Anthropic，Google DeepMind 发布 DiffusionGemma 提速 4 倍，Anthropic CEO 警告文明崩溃概率达 10%-25%，WWDC 2026 Siri AI 空间交互革新 → [阅读](daily/2026-06-11)
