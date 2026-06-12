@@ -1,13 +1,4 @@
----
-layout: default
-title: AI 大事记
----
-
-<link rel="icon" type="image/svg+xml" href="/daily-ai-news/favicon.svg" />
-
-# 🤖 每日 AI 大事记
-
-> 每日自动汇总前一天 AI 领域重要动态，涵盖研究论文、博客播客、大佬发言、工作流应用、学习课程等。
+- [2026-06-12](daily/2026-06-12.md) — Anthropic Fable 5 发布、OpenAI 全栈化加速、AI Agent 支付闭环初现
 
 ## 📰 最新一期
 - **[2026年06月10日](daily/2026-06-10.md)** — Claude Fable 5 发布、Amodei 呼吁 FAA 式监管、1500 美元训练基础模型
