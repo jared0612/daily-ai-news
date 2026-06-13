@@ -1,6 +1,9 @@
 - [2026-06-12](daily/2026-06-12.md) — Anthropic Fable 5 发布、OpenAI 全栈化加速、AI Agent 支付闭环初现
 
 ## 📰 最新一期
+
+- [AI 大事记 — 2026年06月13日](daily/2026-06-13.md) | OpenAI多州调查·网信办AI举报专区·Anthropic 5.2万人调查
+
 - **[2026年06月10日](daily/2026-06-10.md)** — Claude Fable 5 发布、Amodei 呼吁 FAA 式监管、1500 美元训练基础模型
 - [2026年06月09日](daily/2026-06-09.md)
 - [AI 大事记 — 2026年06月08日](daily/2026-06-08.md)
