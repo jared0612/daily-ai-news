@@ -1,6 +1,8 @@
+- [2026-06-14](daily/2026-06-14.md) — Anthropic出口管制、DeepMind ASI路线图、智谱GLM-5.2开源
 - [2026-06-12](daily/2026-06-12.md) — Anthropic Fable 5 发布、OpenAI 全栈化加速、AI Agent 支付闭环初现
 
 ## 📰 最新一期
+- [AI 大事记 — 2026年06月14日](daily/2026-06-14.md) | Fable5出口管制·Anthropic 9650亿估值·DeepMind ASI路线图
 
 - [AI 大事记 — 2026年06月13日](daily/2026-06-13.md) | OpenAI多州调查·网信办AI举报专区·Anthropic 5.2万人调查
 
