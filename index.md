@@ -1,13 +1,24 @@
-- [2026-06-14](daily/2026-06-14.md) — Anthropic出口管制、DeepMind ASI路线图、智谱GLM-5.2开源
-- [2026-06-12](daily/2026-06-12.md) — Anthropic Fable 5 发布、OpenAI 全栈化加速、AI Agent 支付闭环初现
+---
+layout: default
+title: AI 大事记 — 每日自动生成
+---
+
+# 🤖 每日 AI 大事记
+
+> 由 QClaw Agent 每日自动生成，严格遵循日期验证标准。
 
 ## 📰 最新一期
+
+- [AI 大事记 — 2026年06月26日](daily/2026-06-26) | OpenAI IPO推迟2027·三星1000万亿韩元押注AI·DeepSeek全部门扩招一倍
+
 - [AI 大事记 — 2026年06月14日](daily/2026-06-14.md) | Fable5出口管制·Anthropic 9650亿估值·DeepMind ASI路线图
 
 - [AI 大事记 — 2026年06月13日](daily/2026-06-13.md) | OpenAI多州调查·网信办AI举报专区·Anthropic 5.2万人调查
 
+- [AI 大事记 — 2026年06月11日](daily/2026-06-11) | OpenAI拟降价应战·DeepMind DiffusionGemma提速4倍·WWDC 2026 Siri革新
+
 - **[2026年06月10日](daily/2026-06-10.md)** — Claude Fable 5 发布、Amodei 呼吁 FAA 式监管、1500 美元训练基础模型
-- [2026年06月09日](daily/2026-06-09.md)
+- [AI 大事记 — 2026年06月09日](daily/2026-06-09.md)
 - [AI 大事记 — 2026年06月08日](daily/2026-06-08.md)
 
 - [AI 大事记 — 2026年06月07日](daily/2026-06-07.md)
@@ -53,5 +64,3 @@
 ---
 
 *🤖 由 QClaw Agent 自动生成，每日 07:00 更新*
-
-- **[2026-06-11] AI 大事记 — 2026年06月11日**：OpenAI 拟大幅降价应战 Anthropic，Google DeepMind 发布 DiffusionGemma 提速 4 倍，Anthropic CEO 警告文明崩溃概率达 10%-25%，WWDC 2026 Siri AI 空间交互革新 → [阅读](daily/2026-06-11)
