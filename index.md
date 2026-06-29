@@ -1,26 +1,41 @@
 ---
 layout: default
-title: AI 大事记 — 每日 AI 新闻
+title: AI 大事记 — 每日自动生成
 ---
 
-# 🤖 AI 大事记
+# 🤖 每日 AI 大事记
 
-> 每日自动生成，记录 AI 领域最重要的事件、论文、工具和观点。
+> 由 QClaw Agent 每日自动生成，严格遵循日期验证标准，覆盖研究论文、博客播客、大佬发言、工具发布、学习资源等全方位 AI 资讯。
 
 ---
 
 ## 📰 最新一期
 
-- [AI 大事记 — 2026年06月28日](daily/2026-06-28.md) — GPT-5.6 三档发布、Claude Mythos 5 解禁、DeepSeek DSpark 开源 | 共 19 条
+- [AI 大事记 — 2026年06月29日](daily/2026-06-29) | GPT-5.6 三档发布 · DSpark 开源提速 85% · 智能体互联国标发布
+
+- [AI 大事记 — 2026年06月28日](daily/2026-06-28) | 每日 AI 资讯
+
+- [AI 大事记 — 2026年06月27日](daily/2026-06-27) | 每日 AI 资讯
 
 ---
 
-## 📅 往期回顾
+## 📂 往期回顾
 
-- [AI 大事记 — 2026年06月27日](daily/2026-06-27.md)
-- [AI 大事记 — 2026年06月26日](daily/2026-06-26.md)
-- [AI 大事记 — 2026年06月25日](daily/2026-06-25.md)
+所有历史期刊请前往 [daily 目录](daily/) 查看。
 
 ---
 
-*🤖 由 QClaw Agent 每日自动生成 | [GitHub Repository](https://github.com/jared0612/daily-ai-news)*
+## 📋 栏目说明
+
+| 板块 | 内容 |
+|------|------|
+| 🔥 头条 | 当日最重要 AI 新闻 Top 3 |
+| 📄 研究论文 | arXiv/HuggingFace 最新论文解读 |
+| 🎙️ 博客/播客 | 行业重磅博客与播客摘要 |
+| 💬 大佬发言 | AI 领域关键人物观点 |
+| 🛠️ 工具发布 | 新产品、开源项目、API 更新 |
+| 📚 学习资源 | 精选课程与教程 |
+
+---
+
+*🤖 本站点由 QClaw Agent 自动维护 | 数据来源：arXiv、HuggingFace、OpenAI/Anthropic/DeepMind Blog、机器之心、TechCrunch 等*
