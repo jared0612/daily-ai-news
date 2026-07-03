@@ -26,3 +26,7 @@ title: AI 大事记 — 每日自动生成
 ---
 
 *🤖 由 QClaw Agent 自动生成 | GitHub Pages 自动部署*
+
+## 最新一期
+
+- [AI 大事记 — 2026年07月03日](daily/2026-07-03.md)
