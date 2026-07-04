@@ -10,6 +10,7 @@ title: AI 大事记 — 每日自动生成
 ---
 
 ## 📰 最新一期
+- [AI 大事记 — 2026年07月04日](./daily/2026-07-04.md) — Anthropic Fable 5 安全框架、arXiv 单日228篇论文、Claude Sonnet 5 发布
 
 - [AI 大事记 — 2026年07月02日](./daily/2026-07-02.md) — OpenAI 提议向美国政府出让 5% 股权、白宫加速制定 AI 模型发布标准、Anthropic Fable 5 恢复全球访问
 
