@@ -1,3 +1,4 @@
+- **[2026年7月5日](./daily/2026-07-05.html)**
 ---
 layout: default
 title: AI 大事记 — 每日自动生成
