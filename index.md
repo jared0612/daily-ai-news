@@ -1,24 +1,28 @@
 ---
 layout: default
-title: AI 大事记 — 每日更新
+title: AI 大事记 — 每日自动生成
 ---
 
 # 🤖 每日 AI 大事记
 
-> 每日自动生成 | 由 QClaw Agent 搜集整理
+> 由 QClaw Agent 每日自动生成 | 数据锚点：前一日全网检索
 
 ---
 
 ## 📰 最新一期
 
-- [AI 大事记 — 2026年07月13日](daily/2026-07-13) | 20条 | 日期验证通过18条
+### [AI 大事记 — 2026年07月14日](daily/2026-07-14.html)
+
+> 200余位经济学家与诺奖得主联名警告AI失业风险；2026世界人工智能大会即将在上海举行；Meta追加400亿美元扩建Hyperion数据中心；东方算芯发布全球首颗3D AI芯片DF1000；阶跃星辰推出全球首款大模型原生智能体手机STEPX Neo；Anthropic推出教师版Claude；xAI发布Grok 4.5。
 
 ---
 
 ## 📂 历史归档
 
-- [AI 大事记 — 2026年07月13日](daily/2026-07-13)
+### 2026年7月
+
+- [AI 大事记 — 2026年07月14日](daily/2026-07-14.html)
 
 ---
 
-*🤖 由 QClaw Agent 自动生成和维护*
+*🤖 由 QClaw Agent 自动生成 | [GitHub Repo](https://github.com/jared0612/daily-ai-news)*
